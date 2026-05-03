@@ -2,14 +2,13 @@
 
 # 🦉 SOWA Privacy
 
-### AI Privacy. On Premise.
+### AI Privacy. Simple.
 
 **The browser-level AI privacy proxy that anonymizes your data before it ever reaches an AI system.**
 
 [![Website](https://img.shields.io/badge/Website-sowaprivacy.ai-blue?style=flat-square)](https://sowaprivacy.ai)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install%20Free-brightgreen?style=flat-square&logo=googlechrome)](https://sowaprivacy.ai)
 [![License](https://img.shields.io/badge/License-Open%20Source-orange?style=flat-square)](https://github.com/Sowa-Privacy)
-[![Tests](https://img.shields.io/badge/Automated%20Tests-635-success?style=flat-square)](https://github.com/Sowa-Privacy)
 
 </div>
 
